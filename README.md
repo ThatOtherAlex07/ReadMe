@@ -2,10 +2,11 @@
 
 I am a fresh new Python programmer.
 With the following skills:
-- Python, OOP, algorithms
+- Python, OOP,
 - Pygame
 - SQlite
 - Flask
 - Pyrogram
+- Javascript
 
 Most of my projects are publicly available, some are not. 
